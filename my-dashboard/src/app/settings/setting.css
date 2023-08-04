@@ -1,0 +1,11 @@
+.card-container{
+    width: 24rem;
+}
+
+.card1{
+    flex:2 1 auto
+}
+
+.card2{
+    flex: 1 1 auto
+}
